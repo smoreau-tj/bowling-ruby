@@ -3,4 +3,4 @@
 --format progress
 --no-profile
 --no-fail-fast
---order defined
+--order random
