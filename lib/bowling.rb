@@ -1,12 +1,15 @@
 
 class Bowling
+  def initialize
+    @current_roll = 0
+    @rolls = []
 
-score = 0
+  end  
+    
+  def roll(pins)
 
+  end    
 
- puts score
 
 
 end
-
-Bowling.new
